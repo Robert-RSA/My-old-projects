@@ -1,5 +1,5 @@
-# My-old-projects
-# FNB App Academy
+# FNB App Academy Basic Math Calculator.
+_My-old-projects_
 
 ## Skills & Technologies
 This project highlights the tech stack covered during the academy,
